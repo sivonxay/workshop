@@ -211,6 +211,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://workshop.materialsproject.org/primer/04_Google_Colab/lesson/</loc>
+         <lastmod>2021-07-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://workshop.materialsproject.org/primer/04_MongoDB_part2/exercises/</loc>
          <lastmod>2021-07-21</lastmod>
          <changefreq>daily</changefreq>
